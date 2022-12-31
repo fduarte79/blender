@@ -13,19 +13,20 @@
 `{` Left  
 `}` Right  
 `<` Page Up  
-`>` Page Down
-`\` Home  
+`>` Page Down  
+`\` Home   
 `|` End  
 
 `!` Alt  
 `@` Backspace  
-`#` Ctrl 
+`#` Ctrl  
 `$` Delete  
 `%` Enter  
 `&` Esc  
 `*` Return  
 `(` Shift   
-`)` Tab   
+`)` Tab
+`§` delete  
 
 **Properties**  
 `#c` copy  
@@ -48,16 +49,16 @@
 `!k` clear set 
 
 **Text**  
-`` start  
-`` end  
-``, `` single character  
-``, `` single word  
-``, `` delete character  
-``, `` delete word  
-``  
-`` select all  
-`` copy selection  
-`` cut selection 
-`` paste
+`\` start  
+`|` end  
+`{`, `}` single character  
+`#{`, `#}` single word  
+`@`, `§` delete character  
+`#@`, `#§` delete word  
+`(`  
+`#a` select all  
+`#c` copy selection  
+`#x` cut selection 
+`#v` paste
 
 **Confirm, cancel**  
