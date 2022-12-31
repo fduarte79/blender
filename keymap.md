@@ -87,6 +87,7 @@
 `#!?` toggle fullscreen  
 `#<`, `#>` next/previous workspace    
 `?` play  
-``   
-``
 `(#?` playback animation (reverse)
+
+`t` toobar   
+`n` sidebar
