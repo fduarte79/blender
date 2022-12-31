@@ -25,7 +25,7 @@
 `&` Esc  
 `*` Return  
 `(` Shift   
-`)` Tab
+`)` Tab  
 `§` delete   
 `?` Spacebar  
 
