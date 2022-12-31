@@ -101,10 +101,10 @@
 `t` toobar   
 `n` sidebar
 
-## Moving 
-`mm` free move
-`(mm` zoom move
-`#mm` xy plane move
+## Moving  
+`mm` free move  
+`(mm` zoom move  
+`#mm` xy plane move  
 
 # Tool System
 
