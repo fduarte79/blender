@@ -27,6 +27,7 @@
 `(` Shift   
 `)` Tab
 `§` delete  
+`?` Spacebar
 
 **Properties**  
 `#c` copy  
@@ -66,24 +67,26 @@
 `*`, `lm` Confirm
 
 **Global Keys**  
-`` open  
-`` save  
-`` new  
-`` undo  
-`` redo  
-`` quit  
-`` help  
-`` rename  
-`` search  
-`` context menu  
-`` user actions  
-`` last operation  
+`#o` open  
+`#s` save  
+`#n` new  
+`#z` undo  
+`(#z` redo  
+`#q` quit  
+`f1` help  
+`f2` rename  
+`f3` search  
+`f4` context menu  
+`f5 ~ f8` user actions  
+`f9` last operation  
+`f10` user actions    
+`f11` show render  
+`f12` render current  
+`q` quick access  
+`#?` toggle maximize  
+`#!?` toggle fullscreen  
+`#<`, `#>` next/previous workspace    
+`?` play  
 ``   
-``   
-``   
-``   
-``   
-``   
-``   
-``   
-``   
+``
+`(#?` playback animation (reverse)
