@@ -7,9 +7,6 @@
 **Menus**: file, edit, render, Window, Help  
 **Workspaces**: layout, modeling, sculping, UV Editing, shading, animation, rendering, composting, scripting  
 
-
-# Shortcuts
-
 **Default**
 
 `lm` Left Mouse  
