@@ -109,3 +109,6 @@
 # Tool System
 
 **Tool Bar** `t`: select, cursor, move, rotate, scale, tranform, annotate, measure, extrude region,  inset faces, bevel, loop cut, knife, poly build, spin, smmoth, edge slide, shrink, shear, rip
+
+# Objects
+`(a` append object
