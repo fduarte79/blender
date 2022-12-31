@@ -26,8 +26,8 @@
 `*` Return  
 `(` Shift   
 `)` Tab
-`§` delete  
-`?` Spacebar
+`§` delete   
+`?` Spacebar  
 
 **Properties**  
 `#c` copy  
