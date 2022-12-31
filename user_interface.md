@@ -17,15 +17,15 @@
 `\` Home  
 `|` End  
 
-`!` Alt
+`!` Alt  
 `@` Backspace  
 `#` Ctrl 
-`$` Delete
-`%` Enter
+`$` Delete  
+`%` Enter  
 `&` Esc  
-`*` Return 
-`(` Shift  
-`)` Tab  
+`*` Return  
+`(` Shift   
+`)` Tab   
 
 **Properties**  
 `#c` copy  
@@ -38,26 +38,26 @@
 `*`  
 `!`  
 
-**Animation** (keyframe)  
+**Animation**  
 `i` insert  
-`]i` clear  
-`>[i` clear all  
-`<d` assign a driver  
-`<]d` clear  
+`!i` clear  
+`(#i` clear all  
+`#d` assign a driver  
+`#!d` clear  
 `k` add set  
-`]k` clear set 
+`!k` clear set 
 
 **Text**  
-`,` start  
-`.` end  
-`{`, `}` single character  
-`^{`, `^}` single word  
-`?`, `d` delete character  
-`^?`, `^d` delete word  
-`>`  
-`^a` select all  
-`^c` copy selection  
-`^x` cut selection 
-`^v` paste
+`` start  
+`` end  
+``, `` single character  
+``, `` single word  
+``, `` delete character  
+``, `` delete word  
+``  
+`` select all  
+`` copy selection  
+`` cut selection 
+`` paste
 
 **Confirm, cancel**  
