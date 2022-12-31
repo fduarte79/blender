@@ -64,3 +64,26 @@
 **Confirm, cancel**  
 `&`, `rm` Cancel   
 `*`, `lm` Confirm
+
+**Global Keys**  
+`` open  
+`` save  
+`` new  
+`` undo  
+`` redo  
+`` quit  
+`` help  
+`` rename  
+`` search  
+`` context menu  
+`` user actions  
+`` last operation  
+``   
+``   
+``   
+``   
+``   
+``   
+``   
+``   
+``   
