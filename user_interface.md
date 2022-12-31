@@ -59,6 +59,8 @@
 `#a` select all  
 `#c` copy selection  
 `#x` cut selection 
-`#v` paste
+`#v` paste  
 
 **Confirm, cancel**  
+`&`, `rm` Cancel   
+`*`, `lm` Confirm
