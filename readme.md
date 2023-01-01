@@ -10,7 +10,11 @@ Edit - Preferences - Addons - MeasureIt-ARCH
 
 # Customize
 **Background color**: `n` - Dsiplay in solid color - arrow - Viewport - color
-
+**Hide**: camera, light  
+**Edit mode**, `TAB`, `a` (select all objects), `m` (merge), center
+**Change units**: lateral bar, scene, units
+**Append image**: *Object Mode*, `shift a`, Empty, Image, Particle Properties, Open, Select Image 
+**Deslocate image**: `t`, 
 
 [User Interface](user_interface.md)
 
